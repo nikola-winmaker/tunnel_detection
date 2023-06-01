@@ -1,6 +1,7 @@
 ## Introdution
-Using acoustic features and classification algorithms to distinguish between road and tunnel signatures.
+SONETE - Sonic Sensing for Tunnel Environment
 
+Using acoustic features and classification algorithms to distinguish between road and tunnel signatures.
 Use acoustic phenomena of the sudden change in an acoustic environment. In order to achieve this, an externally mounted acoustic pressure sensor proves to be suitable. 
 The driver, when listening to the aural landscape before and after the tunnel, may not be consciously aware of the tunnel's size or any specific internal characteristics. However, the presence of a tunnel is clearly perceivable throughout its entire length, with the driver's reaction time (i.e., resolution) determined by the capabilities of the human auditory system.
 
